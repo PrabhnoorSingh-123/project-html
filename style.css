@@ -1,0 +1,31 @@
+
+    h1{
+        color:rgb(0, 0, 0)
+    }
+    
+      
+    
+    .header{
+        background-color: rgba(177, 173, 167, 0.719);
+        display:flex;
+        justify-content:space-between;
+    }
+    .games{
+         background-color: #033650 ;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+
+    }
+    .footer{
+          background-color: rgb(69, 73, 69);
+        display:flex;
+        justify-content:flex-end;
+    }
+ h2{text-align: right;
+    background: darkturquoise;
+ }
+ 
+  h3{text-align: center;
+background-color: rgb(134, 112, 255);
+}
